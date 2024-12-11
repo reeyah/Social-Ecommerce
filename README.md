@@ -29,13 +29,13 @@ https://drive.google.com/drive/u/0/folders/1u6u1o7_rQ2_3iHQW93XfrnaAiqZMEPmo
 2. Clone the repo:
 
 ```
-git clone https://github.com/Debojyoti1915001/NIT-SILCHAR-200-Running.git
+git clone https://github.com/reeyah/Social-Ecommerce
 ```
 
-3. Change to the **NIT-SILCHAR-200-Running** directory
+3. Change to the **Social-Ecommerce** directory
 
 ```
-cd NIT-SILCHAR-200-Running
+cd Social-Ecommerce
 ```
 
 4. The operational code is in `master`
@@ -44,7 +44,7 @@ cd NIT-SILCHAR-200-Running
 git checkout --track origin/dev
 ```
 
-5. Obtain the **.env** file and place it inside the root (**NIT-SILCHAR-200-Running**) directory
+5. Obtain the **.env** file and place it inside the root (**Social-Ecommerce**) directory
 
 ```
 MONGODB_URL=mongodb+srv://debo:debo@debo.brgyg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
@@ -57,7 +57,7 @@ API_Key=776272262761276
 API_Secret=ZvhJVjaKl4CTKyDJIN-xKfNOit4
 ```
 
-6. Open your git bash or cmd again, and cd to the **NIT-SILCHAR-200-Running** directory. Then
+6. Open your git bash or cmd again, and cd to the **Social-Ecommerce** directory. Then
 
 ```
 npm install
@@ -73,7 +73,7 @@ Web app will be accessible at `localhost:3000`
 
 ### Running Flask app for accesing ML model
 
--   Change to the **NIT-SILCHAR-200-Running** directory
+-   Change to the **Social-Ecommerce** directory
 
 ```
 cd ML
