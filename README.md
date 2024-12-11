@@ -1,4 +1,4 @@
-# NIT-SILCHAR-200-Running
+# Sorted Store
 
 ### Link to Live Demo and Project Features
 
